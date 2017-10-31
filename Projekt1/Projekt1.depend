@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1508872034 source:c:\users\betek\desktop\c++\projekt1\main.cpp
+	<iostream>
+	<string>
+
+1509454702 source:c:\users\ziemo\desktop\c++\projekt1\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<list>
+	<thread>
+	"odliczanie.cpp"
+	"zapis.cpp"
+
+1509452999 c:\users\ziemo\desktop\c++\projekt1\odliczanie.cpp
+	<iostream>
+	<time.h>
+	<ctime>
+	<cstdio>
+	<stdlib.h>
+	<windows.h>
+
+1509452432 c:\users\ziemo\desktop\c++\projekt1\zapis.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<time.h>
+	<ctime>
+	<cstdio>
+	<stdlib.h>
+	<windows.h>
+
+1509452432 source:c:\users\ziemo\desktop\c++\projekt1\zapis.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<time.h>
+	<ctime>
+	<cstdio>
+	<stdlib.h>
+	<windows.h>
+
